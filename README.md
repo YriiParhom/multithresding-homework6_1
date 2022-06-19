@@ -1,1 +1,1 @@
-# multithresding-homework6_1
+# Генератор словаря
